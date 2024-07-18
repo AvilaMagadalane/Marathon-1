@@ -48,7 +48,7 @@ public class AbhiBus {
 	    System.out.println(totalFare.getText());
 		System.out.println("Title of the page: "+d.getTitle());
 		Thread.sleep(2000);
-		//d.quit();
+		d.quit();
 
 	}
 
